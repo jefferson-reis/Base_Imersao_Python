@@ -16,4 +16,4 @@ Ferramentas:
 - Google Sheets
 - Google Colab
 - Chat GPT 3.5
-- Bibliotecas:Pandas, Plotly.Express, yfinance, matplotlib.pyplot, plotly.graph_objects, mplfinance, matplotlib.dates, Prophet (séries temporais).
+- Bibliotecas e API:Pandas, Plotly.Express, yfinance, matplotlib.pyplot, plotly.graph_objects, mplfinance, matplotlib.dates, Prophet (séries temporais).
